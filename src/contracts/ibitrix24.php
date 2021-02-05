@@ -39,7 +39,7 @@ interface iBitrix24
     /**
      * Default delay between batch calls (in msec)
      */
-    const BATCH_DELAY = 500000;
+    const BATCH_DELAY = 2000000;
 
     /**
      * Create a object to work with Bitrix24 REST API service
