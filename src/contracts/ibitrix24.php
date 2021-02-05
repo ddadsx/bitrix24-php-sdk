@@ -34,7 +34,7 @@ interface iBitrix24
     /**
      * Max calls in one batch
      */
-    const MAX_BATCH_CALLS = 50;
+    const MAX_BATCH_CALLS = 25;
 
     /**
      * Default delay between batch calls (in msec)
